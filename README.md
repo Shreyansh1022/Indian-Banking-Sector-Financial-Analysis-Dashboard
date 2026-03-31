@@ -18,16 +18,20 @@ Profitability
 Financial Ratios
 Year-wise Performance
 Dashboard Preview
+![Dashboard](https://github.com/Shreyansh1022/Indian-Banking-Sector-Financial-Analysis-Dashboard/blob/13f0db4d0857b6f1cd94445c112827b5a8ed5b64/Screenshot%202026-03-29%20151513.png)
 Tools Used
 Microsoft Excel
 Pivot Tables
 Charts & Graphs
 Slicers
-🚀 Skills Demonstrated
+ Skills Demonstrated
 Financial Analysis
 Data Analysis (basic)
 Data Visualization
 Excel Dashboarding
-📁 Files Included
+Files Included
+-Excel Dashboard(HDFC vs ICIC vs State Bank of India.xlsx)
+-Project Report(Financial Ratio Analysis of Indian Banking Sector.pdf)
+
 Excel Dashboard (.xlsx)
 Project Report (.pdf)
